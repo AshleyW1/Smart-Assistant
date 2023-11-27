@@ -1,2 +1,2 @@
 # Smart-Assistant
-Smart Assistant, starting in python moving to toher languages
+Smart Assistant, starting in Python moving to other languages
